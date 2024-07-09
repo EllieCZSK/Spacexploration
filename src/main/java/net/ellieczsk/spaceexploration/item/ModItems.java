@@ -12,6 +12,8 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, SpaceExploration.MOD_ID);
 
     public static final RegistryObject<Item> STEEL_INGOT = ITEMS.register("steel_ingot", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> ALUMINIUM_INGOT = ITEMS.register("aluminium_ingot",()-> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_ALUMINIUM =ITEMS.register("raw_aluminium",()-> new Item(new Item.Properties()));
 
     //registering register
     public static void register(IEventBus eventBus){

@@ -1,3 +1,12 @@
 {
-  "item.spacexplr.steel_ingot": "Steel ingot"
+  "item.spacexplr.steel_ingot": "Steel ingot",
+  "item.spacexplr.aluminium_ingot": "Aluminium ingot",
+  "item.spacexplr.raw_aluminium": "Raw aluminium",
+
+
+  "creativetab.spacexplr_tab" : "Space Exploration",
+
+
+  "block.spacexplr.aluminium_block": "Aluminium Block",
+  "block.spacexplr.steel_block": "Steel Block"
 }

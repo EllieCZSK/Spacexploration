@@ -24,6 +24,8 @@ public class ModeCreativeModeTabs {
 
                         pOutput.accept(ModBlocks.ALUMINIUM_BLOCK.get());
                         pOutput.accept(ModBlocks.STEEL_BLOCK.get());
+                        pOutput.accept(ModBlocks.DEEPSLATE_ALUMINIUM_ORE.get());
+                        pOutput.accept(ModBlocks.ALUMINIUM_ORE.get());
 
 
                     })

@@ -19,8 +19,11 @@ public class ModBlocks {
     public static final RegistryObject<Block> ALUMINIUM_BLOCK = registerBlock("aluminium_block",
             () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.IRON_BLOCK)));
     public static final RegistryObject<Block> STEEL_BLOCK = registerBlock("steel_block",
-            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.IRON_BLOCK).strength(6f)));
-
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.IRON_BLOCK)));
+    public static final RegistryObject<Block> ALUMINIUM_ORE = registerBlock("aluminium_ore",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.IRON_ORE)));
+    public static final RegistryObject<Block> DEEPSLATE_ALUMINIUM_ORE = registerBlock("deepslate_aluminium_ore",
+            () -> new Block(BlockBehaviour.Properties.ofFullCopy(Blocks.DEEPSLATE_IRON_ORE)));
 
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block){

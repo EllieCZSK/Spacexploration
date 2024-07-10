@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "spacexplr:steel_ingot"
+    }
+  },
+  "result": {
+    "id": "spacexplr:steel_block"
+  }
+}

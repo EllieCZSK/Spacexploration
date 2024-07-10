@@ -1,12 +1,14 @@
 {
-  "item.spacexplr.steel_ingot": "Steel ingot",
-  "item.spacexplr.aluminium_ingot": "Aluminium ingot",
-  "item.spacexplr.raw_aluminium": "Raw aluminium",
+  "item.spacexplr.steel_ingot": "Steel Ingot",
+  "item.spacexplr.aluminium_ingot": "Aluminium Ingot",
+  "item.spacexplr.raw_aluminium": "Raw Aluminium",
 
 
   "creativetab.spacexplr_tab" : "Space Exploration",
 
 
   "block.spacexplr.aluminium_block": "Aluminium Block",
-  "block.spacexplr.steel_block": "Steel Block"
+  "block.spacexplr.steel_block": "Steel Block",
+  "block.spacexplr.aluminium_ore": "Aluminium Ore",
+  "block.spacexplr.deepslate_aluminium_ore": "Deepsalte Aluminium Ore"
 }

@@ -21,11 +21,13 @@ public class ModeCreativeModeTabs {
                         pOutput.accept(ModItems.STEEL_INGOT.get());
                         pOutput.accept(ModItems.ALUMINIUM_INGOT.get());
                         pOutput.accept(ModItems.RAW_ALUMINIUM.get());
+                        pOutput.accept(ModItems.METAL_DETECTOR.get());
 
                         pOutput.accept(ModBlocks.ALUMINIUM_BLOCK.get());
                         pOutput.accept(ModBlocks.STEEL_BLOCK.get());
                         pOutput.accept(ModBlocks.DEEPSLATE_ALUMINIUM_ORE.get());
                         pOutput.accept(ModBlocks.ALUMINIUM_ORE.get());
+
 
 
                     })
